@@ -34,25 +34,13 @@ Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend gelişt
 
 ### 📌 Öne Çıkan Projeler
 
-- 🛡️ **[SecGov]([https://github.com/suleymanbakar39/SecGov):**](https://github.com/suleymanbakar39/SecGov\):**) AES-256-GCM kasa yönetimi, SAST zafiyet ve anahtar tarayıcısı, RFC 6238 TOTP (2FA) ve RBAC tabanlı kurumsal güvenlik yönetişim platformu.
-- 🎟️ **[Eventify]([https://github.com/suleymanbakar39/Eventify):**](https://github.com/suleymanbakar39/Eventify\):**) Java, PHP ve MySQL tabanlı; güvenli oturum açma (SHA-256), ödeme simülasyonu ve SQLi/XSS korumalı dinamik bilet satış platformu.
+- 🛡️ **[SecGov](https://github.com/suleymanbakar39/SecGov):** AES-256-GCM kasa yönetimi, SAST zafiyet ve anahtar tarayıcısı, RFC 6238 TOTP (2FA) ve RBAC tabanlı kurumsal güvenlik yönetişim platformu.
+- 🎟️ **[Eventify](https://github.com/suleymanbakar39/Eventify):** Java, PHP ve MySQL tabanlı; güvenli oturum açma (SHA-256), ödeme simülasyonu ve SQLi/XSS korumalı dinamik bilet satış platformu.
 - 🎯 **Windows Güvenlik Analizi & Sızma Testi:** Nmap ile keşif (enumeration), zafiyet tespiti ve Metasploit ile ayrıcalık yükseltme (privilege escalation) laboratuvar çalışmaları.
 
 
 ---
 
-📊 GitHub İstatistikleri
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=suleymanbakar39&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=suleymanbakar39&show_icons=true&theme=tokyonight&hide_border=true)" height="165" alt="GitHub İstatistikleri" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=suleymanbakar39&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=suleymanbakar39&theme=tokyonight&hide_border=true)" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanbakar39&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanbakar39&layout=compact&theme=tokyonight&hide_border=true)" alt="En Çok Kullanılan Diller" />
-</p>
-
-
----
 
 ### 🌐 İletişim & Ağ
 
