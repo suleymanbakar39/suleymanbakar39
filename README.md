@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E30A17,100:0D1117&height=220&section=header&text=S%C3%9CLEYMAN%20BAKAR&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Backend%20Development&descAlignY=58&descSize=18&descColor=FFFFFF"/>
 
-### 🇹🇷 `BUILDING SECURE SYSTEMS, ONE LINE AT A TIME.`
+### `BUILDING SECURE SYSTEMS, ONE LINE AT A TIME.`
 
 <br>
 
@@ -18,13 +18,7 @@
 
 ## `WHO AM I?`
 
-**Bilgisayar Mühendisliği öğrencisi.**
-**Backend geliştirici.**
-**Siber güvenlik meraklısı.**
-
-Kod yazmayı seviyorum ama asıl ilgimi çeken şey:
-
-### **Bir sistemi hem geliştirmek hem de nasıl kırılabileceğini anlamak.**
+**Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend geliştirme mimarileri, siber güvenlik, web uygulama güvenliği, sızma testleri ve DevSecOps pratikleri üzerine çalışıyorum. Ölçeklenebilir web sistemleri üretirken aynı zamanda sistem zafiyet analizleri, güvenli kimlik doğrulama protokolleri ve veri şifreleme mekanizmaları üzerine odaklanıyorum.**
 
 </div>
 
@@ -78,30 +72,29 @@ Kod yazmayı seviyorum ama asıl ilgimi çeken şey:
 
 ## ⚔️ `TECHNOLOGIES`
 
-<div align="center">
 
-### Backend
+**Yazılım & Backend Geliştirme**  
+<p align="left">
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
+  <img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,php,c,js"/>
-
-### Database & Development
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode"/>
-
-### Security
-
-<img src="https://skillicons.dev/icons?i=linux,kali"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL%20INJECTION-E30A17?style=flat-square"/>
-<img src="https://img.shields.io/badge/XSS-E30A17?style=flat-square"/>
-<img src="https://img.shields.io/badge/LFI-E30A17?style=flat-square"/>
-<img src="https://img.shields.io/badge/RBAC-E30A17?style=flat-square"/>
-<img src="https://img.shields.io/badge/2FA-E30A17?style=flat-square"/>
-<img src="https://img.shields.io/badge/AES--256--GCM-E30A17?style=flat-square"/>
-
-</div>
+**Siber Güvenlik, DevSecOps & Ağ**  
+<p align="left">
+  <img src="[https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge](https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge)" />
+  <img src="[https://img.shields.io/badge/Metasploit-000000?style=for-the-badge](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)" />
+  <img src="[https://img.shields.io/badge/Web_Security-SQLi%20%2F%20XSS%20%2F%20LFI-red?style=for-the-badge](https://img.shields.io/badge/Web_Security-SQLi%20%2F%20XSS%20%2F%20LFI-red?style=for-the-badge)" />
+  <img src="[https://img.shields.io/badge/Cryptography-AES--256--GCM-7FE200?style=for-the-badge&logoColor=black](https://img.shields.io/badge/Cryptography-AES--256--GCM-7FE200?style=for-the-badge&logoColor=black)" />
+  <img src="[https://img.shields.io/badge/Fortigate-Firewall-orange?style=for-the-badge](https://img.shields.io/badge/Fortigate-Firewall-orange?style=for-the-badge)" />
+</p>
 
 ---
 
@@ -128,6 +121,14 @@ Java, PHP ve MySQL kullanılarak geliştirilen etkinlik ve bilet yönetim platfo
 `Java` · `PHP` · `MySQL` · `Authentication` · `SQLi Protection` · `XSS Protection`
 
 [ **VIEW PROJECT →**](https://github.com/suleymanbakar39/Eventify)
+
+---
+
+### 🎯 Windows Güvenlik Analizi & Sızma Testi
+
+Nmap ile keşif (enumeration), zafiyet tespiti ve Metasploit ile ayrıcalık yükseltme (privilege escalation) laboratuvar çalışmaları.
+
+'Nmap' . 'Metasploit'
 
 ---
 
