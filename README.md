@@ -1,8 +1,5 @@
 # Merhaba, Ben Süleyman Bakar 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suleymanbakar39&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenmesi&color=7FE200&style=flat" alt="Profil Ziyaretçisi" />
-</p>
 
 Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend geliştirme mimarileri, siber güvenlik, web uygulama güvenliği, sızma testleri ve DevSecOps pratikleri üzerine çalışıyorum. Ölçeklenebilir web sistemleri üretirken aynı zamanda sistem zafiyet analizleri, güvenli kimlik doğrulama protokolleri ve veri şifreleme mekanizmaları üzerine odaklanıyorum.
 
