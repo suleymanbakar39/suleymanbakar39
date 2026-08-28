@@ -42,14 +42,13 @@ Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend gelişt
 ---
 
 
-### 🌐 İletişim & Ağ
-
+### 🌐 İletişim
 
 <p align="left">
-  <a href="[https://linkedin.com/in/suleyman-bakar-836113199](https://linkedin.com/in/suleyman-bakar-836113199)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  <a href="https://linkedin.com/in/suleyman-bakar-836113199" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:suleymanbakar39@gmail.com">
-    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
