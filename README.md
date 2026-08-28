@@ -1,54 +1,157 @@
-# Merhaba, Ben Süleyman Bakar 👋
+# 👋 Hey, I'm Süleyman Bakar
 
+### `Computer Engineering Student` • `Backend Developer` • `Security Enthusiast` 🔐
 
-Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend geliştirme mimarileri, siber güvenlik, web uygulama güvenliği, sızma testleri ve DevSecOps pratikleri üzerine çalışıyorum. Ölçeklenebilir web sistemleri üretirken aynı zamanda sistem zafiyet analizleri, güvenli kimlik doğrulama protokolleri ve veri şifreleme mekanizmaları üzerine odaklanıyorum.
+> **I build things, break things, and then make them more secure.** 😎
+
+Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
+Backend geliştirme, web application security, penetration testing ve DevSecOps alanlarında kendimi geliştiriyorum.
+
+Kod yazarken sadece **"çalışıyor mu?"** diye değil,
+**"nasıl daha güvenli, ölçeklenebilir ve sağlam olur?"** diye düşünüyorum.
+
+```text
+💻 Backend        → Building APIs & server-side systems
+🔐 Cyber Security → Finding vulnerabilities & securing applications
+🌐 Web Security   → SQLi • XSS • LFI • Authentication
+🛡️ DevSecOps      → Security throughout the development lifecycle
+🧠 Learning       → Always experimenting with something new
+```
 
 ---
 
-### 🛠️ Teknoloji Yığını & Yetkinlikler
+## ⚡ What I'm Working On
 
-**Yazılım & Backend Geliştirme**  
+* 🔐 **Secure Authentication & Authorization**
+* 🛡️ **Web Application Security**
+* ⚙️ **Backend Architecture & API Development**
+* 🔎 **Vulnerability Analysis & Penetration Testing**
+* 🚀 **DevSecOps & Secure Software Development**
+* 🗄️ **Database Design & Secure Data Handling**
+
+---
+
+## 🧰 My Toolbox
+
+### 💻 Development
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,php,c,js" />
 </p>
 
-**Siber Güvenlik, DevSecOps & Ağ**  
+### 🗄️ Database & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_Security-SQLi%20%2F%20XSS%20%2F%20LFI-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cryptography-AES--256--GCM-7FE200?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Fortigate-Firewall-orange?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode" />
+</p>
+
+### 🔐 Security
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali" />
+</p>
+
+`Nmap` • `Metasploit` • `SQL Injection` • `XSS` • `LFI`
+`AES-256-GCM` • `TOTP / 2FA` • `RBAC` • `SAST`
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ SecGov
+
+**Security Governance Platform**
+
+A security-focused platform built around protecting sensitive information and managing organizational security.
+
+**Highlights:**
+
+* 🔒 AES-256-GCM encrypted vault
+* 🔑 Secure key management
+* 🔎 SAST vulnerability scanning
+* 🕵️ Secret / API key detection
+* 🔐 TOTP-based 2FA
+* 👥 RBAC authorization
+
+→ [View Project](https://github.com/suleymanbakar39/SecGov)
+
+---
+
+### 🎟️ Eventify
+
+**Secure Event & Ticket Management Platform**
+
+A ticketing platform developed with Java, PHP and MySQL.
+
+**Highlights:**
+
+* 🔐 Authentication & session security
+* 🗄️ Relational database architecture
+* 💳 Payment simulation
+* 🛡️ SQL Injection protection
+* 🧹 XSS protection
+
+→ [View Project](https://github.com/suleymanbakar39/Eventify)
+
+---
+
+### 🎯 Security Labs
+
+Hands-on security experiments and penetration testing labs.
+
+**Currently exploring:**
+
+```bash
+$ nmap → enumeration
+$ metasploit → exploitation
+$ burp → web security testing
+$ kali → security labs
+```
+
+> **Learn → Break → Understand → Secure**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suleymanbakar39&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanbakar39&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📌 Öne Çıkan Projeler
+## 🧠 Currently Learning
 
-- 🛡️ **[SecGov](https://github.com/suleymanbakar39/SecGov):** AES-256-GCM kasa yönetimi, SAST zafiyet ve anahtar tarayıcısı, RFC 6238 TOTP (2FA) ve RBAC tabanlı kurumsal güvenlik yönetişim platformu.
-- 🎟️ **[Eventify](https://github.com/suleymanbakar39/Eventify):** Java, PHP ve MySQL tabanlı; güvenli oturum açma (SHA-256), ödeme simülasyonu ve SQLi/XSS korumalı dinamik bilet satış platformu.
-- 🎯 **Windows Güvenlik Analizi & Sızma Testi:** Nmap ile keşif (enumeration), zafiyet tespiti ve Metasploit ile ayrıcalık yükseltme (privilege escalation) laboratuvar çalışmaları.
+```text
+Backend Architecture
+        ↓
+Application Security
+        ↓
+Penetration Testing
+        ↓
+DevSecOps
+        ↓
+Building Secure Systems
+```
 
+I'm especially interested in understanding **how modern applications work under the hood** and how they can be designed to resist real-world attacks.
 
 ---
 
-
-### 🌐 İletişim
+## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/suleyman-bakar-836113199" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/suleyman-bakar-836113199">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:suleymanbakar39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Don't just make it work. Make it secure."</i> 🔐
 </p>
