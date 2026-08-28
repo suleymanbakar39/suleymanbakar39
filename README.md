@@ -75,25 +75,25 @@
 
 **Yazılım & Backend Geliştirme**  
 <p align="left">
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 **Siber Güvenlik, DevSecOps & Ağ**  
 <p align="left">
-  <img src="[https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge](https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge)" />
-  <img src="[https://img.shields.io/badge/Metasploit-000000?style=for-the-badge](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)" />
-  <img src="[https://img.shields.io/badge/Web_Security-SQLi%20%2F%20XSS%20%2F%20LFI-red?style=for-the-badge](https://img.shields.io/badge/Web_Security-SQLi%20%2F%20XSS%20%2F%20LFI-red?style=for-the-badge)" />
-  <img src="[https://img.shields.io/badge/Cryptography-AES--256--GCM-7FE200?style=for-the-badge&logoColor=black](https://img.shields.io/badge/Cryptography-AES--256--GCM-7FE200?style=for-the-badge&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Fortigate-Firewall-orange?style=for-the-badge](https://img.shields.io/badge/Fortigate-Firewall-orange?style=for-the-badge)" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Security-SQLi%20%2F%20XSS%20%2F%20LFI-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cryptography-AES--256--GCM-7FE200?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Fortigate-Firewall-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -128,7 +128,7 @@ Java, PHP ve MySQL kullanılarak geliştirilen etkinlik ve bilet yönetim platfo
 
 Nmap ile keşif (enumeration), zafiyet tespiti ve Metasploit ile ayrıcalık yükseltme (privilege escalation) laboratuvar çalışmaları.
 
-'Nmap' . 'Metasploit'
+ `Nmap` · `Metasploit`
 
 ---
 
